@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Metadata</key>
+	<dict>
+		<key>Version</key>
+		<integer>5</integer>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>Text</key>
+			<string>Yesterday</string>
+			<key>TimeFormat</key>
+			<integer>0</integer>
+			<key>Incompatibility</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>forever</string>
+			<key>TimeFormat</key>
+			<integer>-1</integer>
+			<key>Incompatibility</key>
+			<dict>
+				<key>Who</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+					<integer>2</integer>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Whenever Justin wants</string>
+			<key>TimeFormat</key>
+			<integer>-1</integer>
+			<key>Incompatibility</key>
+			<dict>
+				<key>Who</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+					<integer>2</integer>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>idc lmao</string>
+			<key>TimeFormat</key>
+			<integer>-1</integer>
+			<key>Incompatibility</key>
+			<dict/>
+		</dict>
+	</array>
+</dict>
+</plist>

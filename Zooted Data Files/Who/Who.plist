@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Metadata</key>
+	<dict>
+		<key>Version</key>
+		<integer>4</integer>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>Text</key>
+			<string>Justin Proulx</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Sn0wCh1ld</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>The Dirty Capitalist</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>idc lmao</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>The Engineer</string>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Students at uOttowa</string>
+		</dict>
+	</array>
+</dict>
+</plist>
