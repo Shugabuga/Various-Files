@@ -11,25 +11,82 @@
 	<array>
 		<dict>
 			<key>Text</key>
-			<string>Take a sip</string>
+			<string>Give up you dirty pirate! (#1)</string>
 			<key>Instructions</key>
-			<string>Whoever has to take a sip takes a sip for as long as the Time card says. If it says now, you can sip for as long as you want.</string>
+			<string>This modded Zooted client is not a pirated Zooted client, after all! This was created as a proof-of-concept to circumvent Zooted's DRM because, if you are the server, you can just change the cards youself lol.</string>
 			<key>Incompatibility</key>
 			<dict>
 				<key>When</key>
 				<array>
+					<integer>0</integer>
 					<integer>1</integer>
 					<integer>2</integer>
 				</array>
 			</dict>
-			<key>TimerMin</key>
-			<integer>3</integer>
-			<key>TimerMax</key>
-			<integer>15</integer>
 		</dict>
 		<dict>
 			<key>Text</key>
-			<string>Give up you dirty pirate!</string>
+			<string>Give up you dirty pirate! (#2)</string>
+			<key>Instructions</key>
+			<string>This modded Zooted client is not a pirated Zooted client, after all! This was created as a proof-of-concept to circumvent Zooted's DRM because, if you are the server, you can just change the cards youself lol.</string>
+			<key>Incompatibility</key>
+			<dict>
+				<key>When</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+					<integer>2</integer>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Give up you dirty pirate! (#3)</string>
+			<key>Instructions</key>
+			<string>This modded Zooted client is not a pirated Zooted client, after all! This was created as a proof-of-concept to circumvent Zooted's DRM because, if you are the server, you can just change the cards youself lol.</string>
+			<key>Incompatibility</key>
+			<dict>
+				<key>When</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+					<integer>2</integer>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Give up you dirty pirate! (#4)</string>
+			<key>Instructions</key>
+			<string>This modded Zooted client is not a pirated Zooted client, after all! This was created as a proof-of-concept to circumvent Zooted's DRM because, if you are the server, you can just change the cards youself lol.</string>
+			<key>Incompatibility</key>
+			<dict>
+				<key>When</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+					<integer>2</integer>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Give up you dirty pirate! (#5)</string>
+			<key>Instructions</key>
+			<string>This modded Zooted client is not a pirated Zooted client, after all! This was created as a proof-of-concept to circumvent Zooted's DRM because, if you are the server, you can just change the cards youself lol.</string>
+			<key>Incompatibility</key>
+			<dict>
+				<key>When</key>
+				<array>
+					<integer>0</integer>
+					<integer>1</integer>
+					<integer>2</integer>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>Text</key>
+			<string>Give up you dirty pirate! (#6)</string>
 			<key>Instructions</key>
 			<string>This modded Zooted client is not a pirated Zooted client, after all! This was created as a proof-of-concept to circumvent Zooted's DRM because, if you are the server, you can just change the cards youself lol.</string>
 			<key>Incompatibility</key>
